@@ -16,10 +16,14 @@
 ## 🖥️ Running the Simulation 
 1. Ensure you have Proteus 8 installed.
 2. Open the provided .pdsprj file in Proteus.
-3. Load the .hex file in the arduino nano microcontroller.
-4. Press run and the simulation take action.
+3. Load the .hex file in the Arduino nano microcontroller.
+4. Press start and see the simulation running on your screen.
 
 ## 🗺️ Roadmad
+- [X] Proteus 8 simulation with Arduino Nano.
+- [ ] Proteus 8 simulation with ESP32.
+- [ ] Implementations using actual boards.
+- [ ] Mobile app for real-time data analysis and reports.
 
 ## 👥 Authors
 
