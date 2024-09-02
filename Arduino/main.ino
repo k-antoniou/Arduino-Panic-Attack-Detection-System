@@ -1,6 +1,6 @@
 /* Arduino code for Panic Attack Monitor and Control (P.A.Mo.C.) device */
 #include <PulseSensorPlayground.h>
-#include<LiquidCrystal.h>
+#include <LiquidCrystal.h>
 
 #define USE_ARDUINO_INTERRUPTS true
 
